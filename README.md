@@ -35,12 +35,16 @@ This document intends to aid those seeking help for programming related question
 
 ### Template
 
-If you are asking a question about a specific code related issue, follow the following format:
-
+> If you are asking a question about a specific code related issue, follow the following format:
+>
 > Abstract summary of what you are trying to accomplish: "I am trying to check if a check if an inputed number is even or odd."
+>
 > Expected Result: "The function should output "odd" for 5 and "even" for 6.
+>
 > Actual result: "The function outputs "odd" for all numbers."
+
 > Your code: 
+
 > ```js 
 > function checkEvenOdd(num){
 >  if(2 % num === 0){
@@ -49,7 +53,8 @@ If you are asking a question about a specific code related issue, follow the fol
 >     console.log("odd");
 >  }
 > }
->```
+> ```
+>
 > Troubleshooting steps and why they failed: "I've tried to search google. But didn't find anything useful.
 
 
