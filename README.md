@@ -11,7 +11,7 @@ This document intends to aid those seeking help for programming related question
 - If you are going to post code, please learn how to properly format it. The chat formatting is pretty easy. 
 - **DO NOT POST IMAGES OF CODE**. This is one of the most annoying things in the world. Helpers are likely going to want to test out some of your code or at a minimum reply with portions of your code that need to be changed. People don't want to spend 10 min retyping your code because you sent it in an image. Just copy and paste.
 - Be respectful. This does not mean people cannot disagree or have a constructive argument, but name calling and offensive behavior will not be tolerated and is completely unproductive. Also, why would anyone want to help someone who calls them names?
-- There is no need to ask permission to ask a question.  
+- There is no need to ask permission to ask a question.  https://dontasktoask.com/
 
 ![](https://i.imgur.com/xNJLvFi.png)
 
